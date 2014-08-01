@@ -1,0 +1,10 @@
+﻿TO DO:
+	
+	Lav en start med ground
+	Få lavet noget UI
+	Planlæg baner
+	Powerups: Skjold, lav alle forhindringer til stjerner i noget tid
+	
+	
+BUGS:
+	
